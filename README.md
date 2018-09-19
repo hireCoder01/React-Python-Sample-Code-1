@@ -1,2 +1,1 @@
-# React-Python-Sample-Code-1
-Uploading files
+#React Redux Python Sample Code Part 1
